@@ -23,4 +23,4 @@ Possuo habilidades com: Python, HTML, CSS e JavaScript. Estou em constante apren
 <br>
 📌 Tente, Insista, Persista, Mas nunca desista! 📌 </p>
 
-Linkedin <h3>https://www.linkedin.com/in/kelvin-harlan-1838b3237/</h3>
+Linkedin https://www.linkedin.com/in/kelvin-harlan-1838b3237/
