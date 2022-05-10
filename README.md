@@ -22,3 +22,5 @@ Tenho o prazer de solucionar problemas e facilitar tarefas, diante disto, me vej
 Possuo habilidades com: Python, HTML, CSS e JavaScript. Estou em constante aprendizado, e com isso pretendo tirar do papel todas as idéias que tenho.<br>
 <br>
 📌 Tente, Insista, Persista, Mas nunca desista! 📌 </p>
+
+Linkedin <h3>https://www.linkedin.com/in/kelvin-harlan-1838b3237/</h3>
