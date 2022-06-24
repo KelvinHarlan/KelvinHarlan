@@ -26,4 +26,3 @@ Possuo habilidades com: Python, HTML, CSS e JavaScript. Estou em constante apren
 🔵 Linkedin: https://www.linkedin.com/in/kelvin-harlan-1838b3237/ <br>
 ✉️ E-mail: Kelvinharlan1991@gmail.com
 
-<a> testando </a>
