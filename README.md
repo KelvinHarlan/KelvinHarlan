@@ -8,7 +8,7 @@
 🟠 HTML <br>
 🔵 CSS <br>
 📒 JavaScript <br>
-🟣 Bootstrap
+🟣 Bootstrap<br>
 🔵 ReactJs
 
 <!---
