@@ -9,11 +9,11 @@
 🔵 CSS <br>
 📒 JavaScript <br>
 🟣 Bootstrap<br>
-🔵 ReactJs
-🔵 TypeScript
-🔵 React Native
-🟣 Sass
-🟣 Bulma
+🔵 ReactJs<br>
+🔵 TypeScript<br>
+🔵 React Native<br>
+🟣 Sass<br>
+🟣 Bulma<br>
 🟢 NodeJS
 
 <!---
