@@ -40,7 +40,3 @@ Possuo habilidades com: Python, HTML, CSS e JavaScript. Estou em constante apren
 <div  align="center"> 
   <div style="display:flex"><br>
 
-
-
-
- <a href="https://github.com/KelvinHarlan"> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KelvinHarlan&theme=react&line_height=40&hide=css"/></a>
