@@ -10,6 +10,11 @@
 📒 JavaScript <br>
 🟣 Bootstrap<br>
 🔵 ReactJs
+🔵 TypeScript
+🔵 React Native
+🟣 Sass
+🟣 Bulma
+🟢 NodeJS
 
 <!---
 KelvinHarlan/KelvinHarlan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
