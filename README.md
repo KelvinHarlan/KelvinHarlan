@@ -38,7 +38,7 @@ Tenho experiência em diferentes sistemas operacionais, incluindo Linux (Ubuntu)
 
 Quanto aos idiomas, sou fluente em Português (nativo) e possuo habilidades intermediárias em Inglês, tanto para leitura quanto para escrita.<br>
 <br>
-📌 Tente, Insista, Persista, Mas nunca desista! 📌 </p>
+📌 Para me conhecer mais, entre em contato:📌 </p>
 
 🔵 Linkedin: https://www.linkedin.com/in/kelvin-harlan-1838b3237/ <br>
 ✉️ E-mail: Kelvinharlandev@gmail.com
