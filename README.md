@@ -44,10 +44,11 @@ Quanto aos idiomas, sou fluente em Português (nativo) e possuo habilidades inte
 ✉️ E-mail: Kelvinharlandev@gmail.com
 
 
-<a href="https://github.com/KelvinHarlan">
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kelvinHarlan&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=KelvinHarlan&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<div align="center">
+  <a href="https://github.com/KelvinHarlan">
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kelvinHarlan&layout=compact&langs_count=7&theme=dracula" />
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=KelvinHarlan&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  </a>
 </div>
-<div  align="center"> 
-  <div style="display:flex"><br>
+
 
