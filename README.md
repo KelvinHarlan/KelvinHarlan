@@ -41,7 +41,7 @@ Quanto aos idiomas, sou fluente em Português (nativo) e possuo habilidades inte
 <br>
 📌 Para me conhecer mais, entre em contato:📌 </p>
 
-🔵 Linkedin: https://www.linkedin.com/in/kelvin-harlan-1838b3237/ <br>
+🔵 Linkedin: https://www.linkedin.com/in/kelvin-harlan/ <br>
 ✉️ E-mail: Kelvinharlandev@gmail.com
 
 
